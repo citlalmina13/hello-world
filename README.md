@@ -1,2 +1,2 @@
 # hello-world
-Just another repository - Hello workd tutorial
+Just another repository - Hello world tutorial
